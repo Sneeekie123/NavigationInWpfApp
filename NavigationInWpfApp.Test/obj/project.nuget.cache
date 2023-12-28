@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "06NBUcfRQDnZGe2Q1mckXTdWBskdDRwDUiDPSxmftJel4xK0hKwhSFyUqGnQKCOrkriU2wVPxrev7xmmnWmMtw==",
+  "success": false,
+  "projectFilePath": "C:\\Projects\\NavigationInWpfApp\\NavigationInWpfApp.Test\\NavigationInWpfApp.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project NavigationInWpfApp is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project NavigationInWpfApp supports: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "NavigationInWpfApp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
